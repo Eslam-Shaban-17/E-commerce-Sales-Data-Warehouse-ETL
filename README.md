@@ -29,37 +29,6 @@ Developed a **centralized Data Warehouse** and automated **ETL pipelines** that:
 
 ## 💼 Business Impact
 
-# 🛒 E-Commerce Sales Data Warehouse (ETL + Star Schema)
-
-> **Centralized Data Warehouse and ETL System for Brazilian E-Commerce Dataset**
-
----
-
-## 🧠 Business Problem
-
-An online retail company faced challenges in managing and analyzing its sales data:
-
-- ❌ Scattered data across multiple CSV files
-- ❌ No historical tracking of prices or customer changes
-- ❌ Manual reports taking days to prepare
-- ❌ Data inconsistencies leading to wrong business decisions
-
----
-
-## 🚀 Solution
-
-Developed a **centralized Data Warehouse** and automated **ETL pipelines** that:
-
-✅ Consolidate **100,000+ orders** from **9 different sources**  
-✅ Track historical changes for customers and products (SCD Type 2)  
-✅ Automate daily incremental loads  
-✅ Reduce reporting time **from days to seconds**  
-✅ Maintain **99.9% data accuracy** through quality checks
-
----
-
-## 💼 Business Impact
-
 📊 **Sales Analysis** – Identify top products and categories in seconds  
 📈 **Trend Detection** – Reveal seasonal and monthly revenue patterns  
 👥 **Customer Insights** – Segment customers by region and behavior  
